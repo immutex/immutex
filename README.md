@@ -2,7 +2,7 @@
 
 > backend engineer // systems // performance
 
-currently building low-level software tailored towards performance, interested in game hacking.
+currently building low-level software tailored towards performance, interested in hytale development.
 
 ---
 
@@ -11,7 +11,7 @@ currently building low-level software tailored towards performance, interested i
 ![rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![go](https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,11 +23,11 @@ currently building low-level software tailored towards performance, interested i
 ### /wip
 
 currently architecting solutions for:
-
-*(coming soon)*
+- hytale development
 
 ---
 
 ### /connect
 
 * [email](mailto:immutexx@gmail.com)
+* discord -> immutex
