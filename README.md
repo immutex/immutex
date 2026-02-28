@@ -2,7 +2,7 @@
 
 > backend engineer // systems // performance
 
-currently building low-level software tailored towards performance, interested in hytale development.
+currently building low-level software tailored towards performance.
 
 ---
 
@@ -23,7 +23,7 @@ currently building low-level software tailored towards performance, interested i
 ### /wip
 
 currently architecting solutions for:
-- hytale development
+- backend web development using go & typescript
 
 ---
 
